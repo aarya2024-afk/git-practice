@@ -12,3 +12,6 @@ if __name__ == "__main__":
     y = 5
     print("Sum:", add(x, y))
     print("Difference:", subtract(x, y))
+
+def multiply(a, b):
+    return a * b
