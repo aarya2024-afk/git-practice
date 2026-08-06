@@ -1,5 +1,6 @@
 # calculator.py
 # A simple calculator program
+# Edited on GitHub
 
 def add(a, b):
     return a + b
